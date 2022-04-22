@@ -3,7 +3,7 @@ Scripts for unbiased clustering and consensus clustering
 
 **NMF-ANLS/**
 ----------
-matlab scripts for doing NMF-ANLS clustering.
+matlab scripts for doing NMF-ANLS clustering.<br>
 Original nmf_bpas code was downloaded from: http://www.cc.gatech.edu/~hpark/software/nmf_bpas.zip
 
 **Graph_Louvain/**
