@@ -1,3 +1,4 @@
+**Original nmf_bpas code was downloaded from: http://www.cc.gatech.edu/~hpark/software/nmf_bpas.zip**
 
 **NMF_ANLS_clustering.m**
 ----------
