@@ -1,0 +1,8 @@
+example_input/kmeans_k03.txt
+example_input/kmeans_k04.txt
+example_input/kmeans_k05.txt
+example_input/kmeans_k06.txt
+example_input/kmeans_k07.txt
+example_input/kmeans_k08.txt
+example_input/kmeans_k09.txt
+example_input/kmeans_k10.txt

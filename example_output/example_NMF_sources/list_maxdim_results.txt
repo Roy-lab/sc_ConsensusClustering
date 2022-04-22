@@ -1,0 +1,3 @@
+example_output/example_NMF_sources/k03-I01/cellclust_maxdim.txt
+example_output/example_NMF_sources/k04-I01/cellclust_maxdim.txt
+example_output/example_NMF_sources/k05-I01/cellclust_maxdim.txt
