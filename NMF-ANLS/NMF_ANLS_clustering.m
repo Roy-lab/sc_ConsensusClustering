@@ -9,7 +9,7 @@ function NMF_ANLS_clustering(alldata,rownames,colnames,k,outdirname)
 % INPUT colnames : [1 x genes] cell array, usually gene (column) names
 % INPUT k : integer, k number for NMF and clusterings
 % INPUT outdirname : string, output directory naming
-% OUTPUT : [outdirname]_K##/ directory, contains NMF result matrices (nmf_outs.mat) and clustering results as text
+% OUTPUT : [outdirname]/k## directory, contains NMF result matrices (nmf_outs.mat) and clustering results as text
 
 rng('shuffle');
 addpath('nmf_bpas');	% locate the nmf_bpas directory
