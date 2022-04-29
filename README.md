@@ -19,6 +19,6 @@ A C++ code for generating consensus graph matrix of multiple clustering solution
 An example wrapper script (matlab) for running through the procedures of the consensus clustering.<br>
 Here we assume that (1) generating sources based on NMF-ANLS kmeans and (2) generating results as NMF-ANLS.
 
-**Release**
+**Releases**
 ----------
 [![DOI](https://zenodo.org/badge/484546554.svg)](https://zenodo.org/badge/latestdoi/484546554) v1.0.0
