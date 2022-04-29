@@ -1,6 +1,5 @@
 # sc_ConsensusClustering
-Scripts for unbiased clustering and consensus clustering<br>
-[![DOI](https://zenodo.org/badge/484546554.svg)](https://zenodo.org/badge/latestdoi/484546554)
+Scripts for unbiased clustering and consensus clustering
 
 **NMF-ANLS/**
 ----------
@@ -19,3 +18,7 @@ A C++ code for generating consensus graph matrix of multiple clustering solution
 ----------
 An example wrapper script (matlab) for running through the procedures of the consensus clustering.<br>
 Here we assume that (1) generating sources based on NMF-ANLS kmeans and (2) generating results as NMF-ANLS.
+
+**Release**
+----------
+[![DOI](https://zenodo.org/badge/484546554.svg)](https://zenodo.org/badge/latestdoi/484546554) v1.0.0
