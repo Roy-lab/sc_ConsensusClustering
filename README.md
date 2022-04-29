@@ -1,5 +1,6 @@
 # sc_ConsensusClustering
 Scripts for unbiased clustering and consensus clustering
+[![DOI](https://zenodo.org/badge/484546554.svg)](https://zenodo.org/badge/latestdoi/484546554)
 
 **NMF-ANLS/**
 ----------
