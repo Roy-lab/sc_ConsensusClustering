@@ -21,4 +21,4 @@ Here we assume that (1) generating sources based on NMF-ANLS kmeans and (2) gene
 
 **Releases**
 ----------
-[![DOI](https://zenodo.org/badge/175703431.svg)](https://zenodo.org/badge/latestdoi/175703431) v1.0.0
+[![DOI](https://zenodo.org/badge/484546554.svg)](https://zenodo.org/badge/latestdoi/484546554) v1.0.0
